@@ -1,0 +1,24 @@
+.tile {
+    margin: 20px !important;
+}
+
+.image img {
+    max-width: 300px;
+}
+
+.image :hover {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    cursor: zoom-in
+}
+
+span {
+    opacity: initial !important;
+}
+
+.gallery-container {
+    margin: 100px auto;
+    margin-right: -60px;
+    position: relative;
+
+}

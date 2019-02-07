@@ -1,0 +1,6 @@
+.contain-width {
+    /* width: 85%; */
+    margin-left: auto;
+    margin-right: auto;
+    overflow-x: hidden;
+}
